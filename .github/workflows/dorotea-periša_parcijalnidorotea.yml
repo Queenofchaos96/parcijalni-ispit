@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'ParcijalniDorotea'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_035B9B4D897A4781945CBEAFA946F1C6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_936B9E65C9E94D5A9EF7ECD947E20D5B }}
           package: .
